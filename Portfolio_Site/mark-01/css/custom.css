@@ -18,6 +18,7 @@ font-family: 'Redressed', cursive; */
 }
 
 .left-sidenav ul li a{
+    text-decoration: none;
     display: block;
 }
 
