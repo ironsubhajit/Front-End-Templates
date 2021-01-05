@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Redressed&display=swap');
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Redressed', cursive; */
+
+.my-brand {
+  font-family: 'Redressed', cursive;
+  font-size: 30px;
+}
+
+@media (min-width: 760px) {
+  .custom-container {
+    width: 65%;
+  }
+}
+
