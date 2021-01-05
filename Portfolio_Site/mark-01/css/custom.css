@@ -13,18 +13,15 @@ font-family: 'Redressed', cursive; */
   }
 }
 
-.left-sidenav ul{
-    list-style-type: none;
-}
-
-.left-sidenav ul li a{
+.left-sidenav a{
+    padding: 6px 8px 6px 16px;
     text-decoration: none;
     display: block;
 }
 
 .left-sidenav {
     height: auto; /* Full-height: remove this if you want "auto" height */
-    width: 160px; /* Set the width of the sidebar */
+    width: 100px; /* Set the width of the sidebar */
     position: static; /* Fixed Sidebar (stay in place on scroll) */
     /*z-index: 1;*/ /* Stay on top */
     /*top: 0;*/ /* Stay at the top */
